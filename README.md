@@ -1,1 +1,1 @@
-# odin-recipes
+This is a list of recipes in a web page format. # odin-recipes
